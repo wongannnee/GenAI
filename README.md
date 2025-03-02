@@ -2,7 +2,9 @@
 
 
 
-<a href='http://www.kgptalkie.com' target="_blank"> <img src='https://github.com/wongannnee/GenAI/blob/main/99_readme/github_genai_img.png'/></a>
+<a href='http://www.kgptalkie.com' target="_blank">
+  <img src='https://raw.githubusercontent.com/wongannnee/GenAI/main/99_readme/github_genai_img.png'/>
+</a>
 
 
 
