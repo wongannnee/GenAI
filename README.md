@@ -17,5 +17,5 @@ streamlit run .\1.simple_chatbot.py
 # ML Resources
 |  ML Course | Description |
 |:---|:---|
-| [**Chat My PDF Data RAG System with LangChain, Ollama, FAISS Vector Store & Llama 3.2**](https://github.com/wongannnee/GenAI/blob/main/1_chatbot_llama_faiss/chatbot_llama_faiss.ipynb.ipynb) | Chatbot with Llama 3.2 LM with pdf file corpus using FAISS vector library |
+| [**Llama Chatbot with pdf data**](https://github.com/wongannnee/GenAI/blob/main/1_chatbot_llama_faiss/chatbot_llama_faiss.ipynb.ipynb) | Chatbot with Llama 3.2 LM with pdf file corpus using FAISS vector library |
 
