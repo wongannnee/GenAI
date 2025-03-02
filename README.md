@@ -2,7 +2,7 @@
 
 
 
-<a href='http://www.kgptalkie.com' target="_blank"> <img src='[https://verbose-eureka-4gr4gx4pqggcpg4.github.dev/](https://github.com/wongannnee/GenAI/blob/main/99_readme/github%20readme%20exp%20genai.png)'/></a>
+<a href='http://www.kgptalkie.com' target="_blank"> <img src='(https://github.com/wongannnee/GenAI/blob/main/99_readme/github%20readme%20exp%20genai.png)'/></a>
 
 
 
